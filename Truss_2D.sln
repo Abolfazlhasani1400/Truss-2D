@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29123.88
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Truss_2D", "Truss_2D.csproj", "{668B7476-025C-400E-89FD-A3CF3517366B}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup", "..\Setup\Setup.vdproj", "{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Debug|x64 = Debug|x64
+		Release|Any CPU = Release|Any CPU
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Debug|x64.ActiveCfg = Debug|x64
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Debug|x64.Build.0 = Debug|x64
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Release|x64.ActiveCfg = Release|x64
+		{668B7476-025C-400E-89FD-A3CF3517366B}.Release|x64.Build.0 = Release|x64
+		{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}.Debug|Any CPU.ActiveCfg = Debug
+		{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}.Debug|x64.ActiveCfg = Debug
+		{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}.Release|Any CPU.ActiveCfg = Release
+		{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}.Release|x64.ActiveCfg = Release
+		{C13ADB9F-DB14-4763-B2AC-7DA133233BA3}.Release|x64.Build.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C2507858-6183-46AD-A816-6E0BD12FF4A7}
+	EndGlobalSection
+EndGlobal
